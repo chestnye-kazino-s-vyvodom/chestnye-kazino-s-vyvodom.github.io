@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: chestnye-kazino-s-vyvodom.github.io
+Sitemap: https://chestnye-kazino-s-vyvodom.github.io/sitemap.xml
